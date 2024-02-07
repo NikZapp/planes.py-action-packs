@@ -1,0 +1,86 @@
+{
+ "bksp+-": [
+  "Builtin",
+  "Remove"
+ ],
+ "bksp+=": [
+  "Builtin",
+  "Echo"
+ ],
+ "bksp+p": [
+  "Builtin",
+  "Duplicate"
+ ],
+ "bksp+[": [
+  "Builtin",
+  "Swap top"
+ ],
+ "bksp+]": [
+  "Builtin",
+  "Cycle (3)"
+ ],
+ "bksp+;": [
+  "Builtin",
+  "Pos to block"
+ ],
+ "ctrl+f": [
+  "Builtin",
+  "Fill"
+ ],
+ "x+up": [
+  "Vector operations",
+  "+x"
+ ],
+ "y+up": [
+  "Vector operations",
+  "+y"
+ ],
+ "z+up": [
+  "Vector operations",
+  "+z"
+ ],
+ "x+down": [
+  "Vector operations",
+  "-x"
+ ],
+ "y+down": [
+  "Vector operations",
+  "-y"
+ ],
+ "z+down": [
+  "Vector operations",
+  "-z"
+ ],
+ "x+right": [
+  "Vector operations",
+  "+x"
+ ],
+ "y+right": [
+  "Vector operations",
+  "+y"
+ ],
+ "z+right": [
+  "Vector operations",
+  "+z"
+ ],
+ "x+left": [
+  "Vector operations",
+  "-x"
+ ],
+ "y+left": [
+  "Vector operations",
+  "-y"
+ ],
+ "z+left": [
+  "Vector operations",
+  "-z"
+ ],
+ "`+s": [
+  "Procedural",
+  "Set seed"
+ ],
+ "`+w": [
+  "Procedural",
+  "Build wall"
+ ]
+}
